@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Ziinyx
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning python and Godot
-- 💞️ I’m looking to collaborate on various projects in Game Dev
-- 📫 Reach me ...   
+ # 👋 Hi, I’m @Ziinyx
+(#^^#) Student(currently in 3rd yr)
+## Interest
+- Game Development
+## Hobbies 
+- Anime
+- CDrama
+- Music
+## 🌱 Currently learning
+**Python and Godot**
+### 💞️ Looking to collaborate on various projects
+- Game development
+- Game development
+- Game development 
+## 📫 Reach me ...
+zinyx.infi@gmail.com
 
 <!---
 Ziinyx/Ziinyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
