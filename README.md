@@ -3,6 +3,7 @@
 ## Interest
 - Game Development
 ## Hobbies 
+- Games
 - Anime
 - CDrama
 - Music
