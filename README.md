@@ -1,4 +1,4 @@
- # :notes: :wink: Hi, I’m @Ziinyx
+ # :notes: :octocat: :wink: Hi, I’m @Ziinyx
 (#^^#) :octocat:
 ## Interest
 - Game Development
