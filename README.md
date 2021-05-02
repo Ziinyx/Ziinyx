@@ -1,14 +1,16 @@
- # 👋 Hi, I’m @Ziinyx
-(#^^#) Student(currently in 3rd yr)
+ # :notes: :wink: Hi, I’m @Ziinyx
+(#^^#) :octocat:
 ## Interest
 - Game Development
 ## Hobbies 
-- Games
+- Games :video_game:
 - Anime
-- CDrama
-- Music
+- CDrama 
+- Music :notes:
 ## 🌱 Currently learning
-**Python and Godot**
+- Python 
+- Godot
+- Unity 
 ### 💞️ Looking to collaborate on various projects
 - Game development
 - Game development
