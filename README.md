@@ -1,6 +1,7 @@
  # :notes: :wink: Hi, I’m @Ziinyx
 (#^^#) :octocat:
 ## Interest
+- Web Development
 - Game Development
 ## Hobbies 
 - Games :video_game:
@@ -8,13 +9,12 @@
 - CDrama 
 - Music :notes:
 ## 🌱 Currently learning
-- Python 
-- Godot
-- Unity 
+- js
+- Python  
 ### 💞️ Looking to collaborate on various projects
+- Web development 
 - Game development
-- Game development
-- Game development 
+
 ## 📫 Reach me ...
 zinyx.infi@gmail.com
 
