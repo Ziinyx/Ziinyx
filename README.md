@@ -2,21 +2,20 @@
 (#^^#) :octocat:
 ## Interest
 - Web Development
-- Game Development
+- Ui and Ux
 ## Hobbies 
-- Games :video_game:
+- Video Games
 - Anime
-- CDrama 
-- Music :notes:
 ## 🌱 Currently learning
-- js
-- Python  
+- React Js  
+- Ui and Ux
 ### 💞️ Looking to collaborate on various projects
 - Web development 
-- Game development
+- Designs
 
 ## 📫 Reach me ...
-zinyx.infi@gmail.com
+- https://dribbble.com/AditiPathak
+- https://twitter.com/InfiAditi
 
 <!---
 Ziinyx/Ziinyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
